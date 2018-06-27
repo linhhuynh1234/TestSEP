@@ -1,0 +1,124 @@
+D:\New folder\WebApplication2\FaceRecognition.UnitTests\bin\Debug\FaceRecognition.UnitTests.dll
+D:\New folder\WebApplication2\FaceRecognition.UnitTests\bin\Debug\FaceRecognition.UnitTests.pdb
+D:\New folder\WebApplication2\FaceRecognition.UnitTests\obj\Debug\FaceRecognition.UnitTests.csprojResolveAssemblyReference.cache
+D:\New folder\WebApplication2\FaceRecognition.UnitTests\obj\Debug\FaceRecognition.UnitTests.dll
+D:\New folder\WebApplication2\FaceRecognition.UnitTests\obj\Debug\FaceRecognition.UnitTests.pdb
+D:\New folder\WebApplication2\FaceRecognition.UnitTests\bin\Debug\ApplicationInsights.config
+D:\New folder\WebApplication2\FaceRecognition.UnitTests\bin\Debug\roslyn\csc.exe
+D:\New folder\WebApplication2\FaceRecognition.UnitTests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\New folder\WebApplication2\FaceRecognition.UnitTests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\New folder\WebApplication2\FaceRecognition.UnitTests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+D:\New folder\WebApplication2\FaceRecognition.UnitTests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\New folder\WebApplication2\FaceRecognition.UnitTests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+D:\New folder\WebApplication2\FaceRecognition.UnitTests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+D:\New folder\WebApplication2\FaceRecognition.UnitTests\bin\Debug\roslyn\System.Collections.Immutable.dll
+D:\New folder\WebApplication2\FaceRecognition.UnitTests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+D:\New folder\WebApplication2\FaceRecognition.UnitTests\bin\Debug\roslyn\vbc.exe
+D:\New folder\WebApplication2\FaceRecognition.UnitTests\bin\Debug\roslyn\VBCSCompiler.exe
+D:\New folder\WebApplication2\FaceRecognition.UnitTests\bin\Debug\roslyn\VBCSCompiler.exe.config
+D:\New folder\WebApplication2\FaceRecognition.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\New folder\WebApplication2\FaceRecognition.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\New folder\WebApplication2\FaceRecognition.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\New folder\WebApplication2\FaceRecognition.UnitTests\bin\Debug\FaceRecognition.UnitTests.dll.config
+D:\New folder\WebApplication2\FaceRecognition.UnitTests\bin\Debug\Castle.Core.dll
+D:\New folder\WebApplication2\FaceRecognition.UnitTests\bin\Debug\EntityFramework.dll
+D:\New folder\WebApplication2\FaceRecognition.UnitTests\bin\Debug\EntityFramework.SqlServer.dll
+D:\New folder\WebApplication2\FaceRecognition.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\New folder\WebApplication2\FaceRecognition.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\New folder\WebApplication2\FaceRecognition.UnitTests\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\New folder\WebApplication2\FaceRecognition.UnitTests\bin\Debug\Moq.dll
+D:\New folder\WebApplication2\FaceRecognition.UnitTests\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\New folder\WebApplication2\FaceRecognition.UnitTests\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\New folder\WebApplication2\FaceRecognition.UnitTests\bin\Debug\System.ValueTuple.dll
+D:\New folder\WebApplication2\FaceRecognition.UnitTests\bin\Debug\System.Web.Helpers.dll
+D:\New folder\WebApplication2\FaceRecognition.UnitTests\bin\Debug\System.Web.Mvc.dll
+D:\New folder\WebApplication2\FaceRecognition.UnitTests\bin\Debug\System.Web.Razor.dll
+D:\New folder\WebApplication2\FaceRecognition.UnitTests\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\New folder\WebApplication2\FaceRecognition.UnitTests\bin\Debug\System.Web.WebPages.dll
+D:\New folder\WebApplication2\FaceRecognition.UnitTests\bin\Debug\System.Web.WebPages.Razor.dll
+D:\New folder\WebApplication2\FaceRecognition.UnitTests\bin\Debug\WebApplication2.dll
+D:\New folder\WebApplication2\FaceRecognition.UnitTests\bin\Debug\System.Web.Optimization.dll
+D:\New folder\WebApplication2\FaceRecognition.UnitTests\bin\Debug\Newtonsoft.Json.dll
+D:\New folder\WebApplication2\FaceRecognition.UnitTests\bin\Debug\WebApplication2.pdb
+D:\New folder\WebApplication2\FaceRecognition.UnitTests\bin\Debug\Castle.Core.xml
+D:\New folder\WebApplication2\FaceRecognition.UnitTests\bin\Debug\EntityFramework.xml
+D:\New folder\WebApplication2\FaceRecognition.UnitTests\bin\Debug\EntityFramework.SqlServer.xml
+D:\New folder\WebApplication2\FaceRecognition.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\New folder\WebApplication2\FaceRecognition.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\New folder\WebApplication2\FaceRecognition.UnitTests\bin\Debug\Moq.pdb
+D:\New folder\WebApplication2\FaceRecognition.UnitTests\bin\Debug\Moq.xml
+D:\New folder\WebApplication2\FaceRecognition.UnitTests\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\New folder\WebApplication2\FaceRecognition.UnitTests\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\New folder\WebApplication2\FaceRecognition.UnitTests\bin\Debug\System.ValueTuple.xml
+D:\New folder\WebApplication2\FaceRecognition.UnitTests\bin\Debug\System.Web.Helpers.xml
+D:\New folder\WebApplication2\FaceRecognition.UnitTests\bin\Debug\System.Web.Mvc.xml
+D:\New folder\WebApplication2\FaceRecognition.UnitTests\bin\Debug\System.Web.Razor.xml
+D:\New folder\WebApplication2\FaceRecognition.UnitTests\bin\Debug\System.Web.WebPages.xml
+D:\New folder\WebApplication2\FaceRecognition.UnitTests\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\New folder\WebApplication2\FaceRecognition.UnitTests\bin\Debug\System.Web.WebPages.Razor.xml
+D:\New folder\WebApplication2\FaceRecognition.UnitTests\bin\Debug\System.Web.Optimization.xml
+D:\New folder\WebApplication2\FaceRecognition.UnitTests\bin\Debug\Newtonsoft.Json.xml
+D:\New folder\WebApplication2\FaceRecognition.UnitTests\bin\Debug\FluentAssert.dll
+D:\New folder\WebApplication2\FaceRecognition.UnitTests\bin\Debug\FluentAssert.pdb
+C:\Users\admin\Source\Repos\TestSEP\WebApplication2\FaceRecognition.UnitTests\bin\Debug\ApplicationInsights.config
+C:\Users\admin\Source\Repos\TestSEP\WebApplication2\FaceRecognition.UnitTests\bin\Debug\roslyn\csc.exe
+C:\Users\admin\Source\Repos\TestSEP\WebApplication2\FaceRecognition.UnitTests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\admin\Source\Repos\TestSEP\WebApplication2\FaceRecognition.UnitTests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\admin\Source\Repos\TestSEP\WebApplication2\FaceRecognition.UnitTests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\admin\Source\Repos\TestSEP\WebApplication2\FaceRecognition.UnitTests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\admin\Source\Repos\TestSEP\WebApplication2\FaceRecognition.UnitTests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\admin\Source\Repos\TestSEP\WebApplication2\FaceRecognition.UnitTests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\admin\Source\Repos\TestSEP\WebApplication2\FaceRecognition.UnitTests\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\admin\Source\Repos\TestSEP\WebApplication2\FaceRecognition.UnitTests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\admin\Source\Repos\TestSEP\WebApplication2\FaceRecognition.UnitTests\bin\Debug\roslyn\vbc.exe
+C:\Users\admin\Source\Repos\TestSEP\WebApplication2\FaceRecognition.UnitTests\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\admin\Source\Repos\TestSEP\WebApplication2\FaceRecognition.UnitTests\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\admin\Source\Repos\TestSEP\WebApplication2\FaceRecognition.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\admin\Source\Repos\TestSEP\WebApplication2\FaceRecognition.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\admin\Source\Repos\TestSEP\WebApplication2\FaceRecognition.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\admin\Source\Repos\TestSEP\WebApplication2\FaceRecognition.UnitTests\bin\Debug\FaceRecognition.UnitTests.dll.config
+C:\Users\admin\Source\Repos\TestSEP\WebApplication2\FaceRecognition.UnitTests\bin\Debug\FaceRecognition.UnitTests.dll
+C:\Users\admin\Source\Repos\TestSEP\WebApplication2\FaceRecognition.UnitTests\bin\Debug\FaceRecognition.UnitTests.pdb
+C:\Users\admin\Source\Repos\TestSEP\WebApplication2\FaceRecognition.UnitTests\bin\Debug\Castle.Core.dll
+C:\Users\admin\Source\Repos\TestSEP\WebApplication2\FaceRecognition.UnitTests\bin\Debug\EntityFramework.dll
+C:\Users\admin\Source\Repos\TestSEP\WebApplication2\FaceRecognition.UnitTests\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\Source\Repos\TestSEP\WebApplication2\FaceRecognition.UnitTests\bin\Debug\FluentAssert.dll
+C:\Users\admin\Source\Repos\TestSEP\WebApplication2\FaceRecognition.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\admin\Source\Repos\TestSEP\WebApplication2\FaceRecognition.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\admin\Source\Repos\TestSEP\WebApplication2\FaceRecognition.UnitTests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\admin\Source\Repos\TestSEP\WebApplication2\FaceRecognition.UnitTests\bin\Debug\Moq.dll
+C:\Users\admin\Source\Repos\TestSEP\WebApplication2\FaceRecognition.UnitTests\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\admin\Source\Repos\TestSEP\WebApplication2\FaceRecognition.UnitTests\bin\Debug\System.ValueTuple.dll
+C:\Users\admin\Source\Repos\TestSEP\WebApplication2\FaceRecognition.UnitTests\bin\Debug\System.Web.Helpers.dll
+C:\Users\admin\Source\Repos\TestSEP\WebApplication2\FaceRecognition.UnitTests\bin\Debug\System.Web.Mvc.dll
+C:\Users\admin\Source\Repos\TestSEP\WebApplication2\FaceRecognition.UnitTests\bin\Debug\System.Web.Razor.dll
+C:\Users\admin\Source\Repos\TestSEP\WebApplication2\FaceRecognition.UnitTests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\admin\Source\Repos\TestSEP\WebApplication2\FaceRecognition.UnitTests\bin\Debug\System.Web.WebPages.dll
+C:\Users\admin\Source\Repos\TestSEP\WebApplication2\FaceRecognition.UnitTests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\admin\Source\Repos\TestSEP\WebApplication2\FaceRecognition.UnitTests\bin\Debug\WebApplication2.dll
+C:\Users\admin\Source\Repos\TestSEP\WebApplication2\FaceRecognition.UnitTests\bin\Debug\System.Web.Optimization.dll
+C:\Users\admin\Source\Repos\TestSEP\WebApplication2\FaceRecognition.UnitTests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\admin\Source\Repos\TestSEP\WebApplication2\FaceRecognition.UnitTests\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\admin\Source\Repos\TestSEP\WebApplication2\FaceRecognition.UnitTests\bin\Debug\WebApplication2.pdb
+C:\Users\admin\Source\Repos\TestSEP\WebApplication2\FaceRecognition.UnitTests\bin\Debug\Castle.Core.xml
+C:\Users\admin\Source\Repos\TestSEP\WebApplication2\FaceRecognition.UnitTests\bin\Debug\EntityFramework.xml
+C:\Users\admin\Source\Repos\TestSEP\WebApplication2\FaceRecognition.UnitTests\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admin\Source\Repos\TestSEP\WebApplication2\FaceRecognition.UnitTests\bin\Debug\FluentAssert.pdb
+C:\Users\admin\Source\Repos\TestSEP\WebApplication2\FaceRecognition.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\admin\Source\Repos\TestSEP\WebApplication2\FaceRecognition.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\admin\Source\Repos\TestSEP\WebApplication2\FaceRecognition.UnitTests\bin\Debug\Moq.pdb
+C:\Users\admin\Source\Repos\TestSEP\WebApplication2\FaceRecognition.UnitTests\bin\Debug\Moq.xml
+C:\Users\admin\Source\Repos\TestSEP\WebApplication2\FaceRecognition.UnitTests\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\admin\Source\Repos\TestSEP\WebApplication2\FaceRecognition.UnitTests\bin\Debug\System.ValueTuple.xml
+C:\Users\admin\Source\Repos\TestSEP\WebApplication2\FaceRecognition.UnitTests\bin\Debug\System.Web.Helpers.xml
+C:\Users\admin\Source\Repos\TestSEP\WebApplication2\FaceRecognition.UnitTests\bin\Debug\System.Web.Mvc.xml
+C:\Users\admin\Source\Repos\TestSEP\WebApplication2\FaceRecognition.UnitTests\bin\Debug\System.Web.Razor.xml
+C:\Users\admin\Source\Repos\TestSEP\WebApplication2\FaceRecognition.UnitTests\bin\Debug\System.Web.WebPages.xml
+C:\Users\admin\Source\Repos\TestSEP\WebApplication2\FaceRecognition.UnitTests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\admin\Source\Repos\TestSEP\WebApplication2\FaceRecognition.UnitTests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\admin\Source\Repos\TestSEP\WebApplication2\FaceRecognition.UnitTests\bin\Debug\System.Web.Optimization.xml
+C:\Users\admin\Source\Repos\TestSEP\WebApplication2\FaceRecognition.UnitTests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\admin\Source\Repos\TestSEP\WebApplication2\FaceRecognition.UnitTests\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\admin\Source\Repos\TestSEP\WebApplication2\FaceRecognition.UnitTests\obj\Debug\FaceRecognition.UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\admin\Source\Repos\TestSEP\WebApplication2\FaceRecognition.UnitTests\obj\Debug\FaceRecognition.UnitTests.dll
+C:\Users\admin\Source\Repos\TestSEP\WebApplication2\FaceRecognition.UnitTests\obj\Debug\FaceRecognition.UnitTests.pdb
