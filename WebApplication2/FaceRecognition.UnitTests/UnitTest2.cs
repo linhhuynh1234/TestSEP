@@ -105,5 +105,50 @@ namespace FaceRecognition.UnitTests
             Assert.AreEqual("", result.ViewName.ToString());
         }
 
+        [TestMethod]
+        public void Logout()
+        {
+            var helper = new MockHelper();
+            var context = helper.MakeFakeController();
+            var controller = new WebApplication2.Controllers.AccountController();
+            controller.ControllerContext = context.Object;
+
+            //
+            var redirectToRouteResult = controller.LogOut() as RedirectToRouteResult;
+            //
+            //Assert
+            Assert.AreEqual("Login", redirectToRouteResult.RouteValues["action"]);
+            Assert.AreEqual("Account", redirectToRouteResult.RouteValues["controller"]);
+
+        }
+
+        [TestMethod]
+        public void ValidateChangeAttendance()
+        {
+            
+            var controller = new WebApplication2.Controllers.CourseController();
+
+            var ID_DD = db.DiemDanhs.FirstOrDefault(x => x.MSSV == "T153337").ID;
+           
+            string id = ID_DD.ToString();
+
+            var result = controller.Change(id) as RedirectToRouteResult;
+            Assert.AreEqual("ListDiemDanh", result.RouteValues["action"]);
+
+        }
+        [TestMethod]
+        public void ValidateChangeBuoiDiemDanh()
+        {
+
+            var controller = new WebApplication2.Controllers.CourseController();
+            var Buoithu = db.BuoiHocs.FirstOrDefault(x => x.MaKH == "MH2").ID_BH;
+        
+
+            string id = Buoithu.ToString();
+
+            var result = controller.edit(id) as RedirectToRouteResult;
+            Assert.AreEqual("ListDiemDanh", result.RouteValues["action"]);
+
+        }
     }
 }

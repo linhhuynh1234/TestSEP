@@ -20,6 +20,7 @@ namespace WebApplication2.Controllers
         [HttpPost]
         public async System.Threading.Tasks.Task<ActionResult> Login (string username, string password)
         {
+
             var checkId = api.Check_Login(username, password);
             if (checkId != null)
             {
@@ -36,19 +37,13 @@ namespace WebApplication2.Controllers
                 //s  Session["monhoc"] = user.GiangDays.FirstOrDefault(x => x.ID_GiangVien == user.ID).ID_MonHoc;
                 return RedirectToAction("Index", "Home");
             }
-
-            //var user = db.GiangViens.FirstOrDefault(x => x.Username == username);
-            //if (user != null)
-            //{
-            //    if (user.Password.Equals(password))
-            //    {
-            //        Session["ID"] = user.ID;
-            //        Session["name"] = user.TenGV;
-            //        Session["monhoc"] = user.GiangDays.FirstOrDefault(x => x.ID_GiangVien == user.ID).ID_MonHoc;
-            //        return RedirectToAction("Index", "Home");
-            //    }
-            //}
+            else
+            {
+                ViewBag.error = "Wrong Username or Password";
+             
+            }
             return View();
+            //return View();
         }
 
         [HttpGet]
